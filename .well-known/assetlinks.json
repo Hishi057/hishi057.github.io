@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.osanpoism",
+      "sha256_cert_fingerprints": [
+        "8B:94:B7:50:2D:E5:EF:98:7E:F1:BD:2B:D8:5F:92:C5:D2:1E:E1:35:9B:45:44:30:41:91:83:76:48:B4:D3:9E" 
+      ]
+    }
+  }
+]

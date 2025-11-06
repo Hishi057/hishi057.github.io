@@ -1,0 +1,13 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appID": "23485V2J7G.org.reactjs.native.example.Osanpoism",
+        "paths": [
+          "/OsanpoismHomepage/user/*",
+          "/OsanpoismHomepage/user/?"
+        ]
+      }
+    ]
+  }
+}
