@@ -5,7 +5,8 @@
       "namespace": "android_app",
       "package_name": "com.osanpoism",
       "sha256_cert_fingerprints": [
-        "8B:94:B7:50:2D:E5:EF:98:7E:F1:BD:2B:D8:5F:92:C5:D2:1E:E1:35:9B:45:44:30:41:91:83:76:48:B4:D3:9E" 
+        "8B:94:B7:50:2D:E5:EF:98:7E:F1:BD:2B:D8:5F:92:C5:D2:1E:E1:35:9B:45:44:30:41:91:83:76:48:B4:D3:9E",
+        "FA:C6:17:45:DC:09:03:78:6F:B9:ED:E6:2A:96:2B:39:9F:73:48:F0:BB:6F:89:9B:83:32:66:75:91:03:3B:9C"
       ]
     }
   }
